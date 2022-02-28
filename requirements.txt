@@ -1,0 +1,7 @@
+numpy>=1.19.5
+pandas>=1.1.5
+scikit-learn>=0.24.2
+pymongo==3.12.0
+dnspython==1.16.0
+python-dev-tools==2020.9.10
+python-mecab-ko==1.0.9
